@@ -1,0 +1,30 @@
+1 - Tytul : Boze igrzysko, autor : Norman Davis, rok wydania : 2005, kategoria : Historia powszechna, wypozyczona : false
+
+2 - Tytul : Wiedzmin. Czas pogardy, autor : Andrzej Sapkowski, rok wydania : 2014, kategoria : Fantastyka, wypozyczona : false
+
+3 - Tytul : Sekrety Samurajow, autor : Oskar Ratti, rok wydania : 1997, kategoria : Historia powszechna, wypozyczona : false
+
+4 - Tytul : Sztuka wojny, autor : Sun Tzu, rok wydania : 2000, kategoria : Historia powszechna, wypozyczona : false
+
+5 - Tytul : Dzieje Grekow i Rzymian, autor : Zygmunt Kubiak, rok wydania : 2005, kategoria : Historia powszechna, wypozyczona : false
+
+6 - Tytul : Achaja, autor : Andrzej Ziemianski, rok wydania : 2008, kategoria : Fantastyka, wypozyczona : false
+
+7 - Tytul : Zapach szkla, autor : Andrzej Ziemianski, rok wydania : 2005, kategoria : Fantastyka, wypozyczona : false
+
+8 - Tytul : Blade runner, autor : Philip K Dick, rok wydania : 1996, kategoria : Fantastyka, wypozyczona : false
+
+9 - Tytul : Algorytmy, autor : Jozin z Bazin, rok wydania : 2005, kategoria : Historia powszechna, wypozyczona : false
+
+10 - Tytul : Bushido, autor : Ivazo Nitobe, rok wydania : 2013, kategoria : Historia powszechna, wypozyczona : false
+
+11 - Tytul : Ksiega bessy, autor : John Rotchchild, rok wydania : 2009, kategoria : Biznes, wypozyczona : false
+
+12 - Tytul : Analiza techniczna rynkow finansowych, autor : John J Murphu, rok wydania : 2005, kategoria : Biznes, wypozyczona : false
+
+13 - Tytul : Getting things done, autor : David Allen, rok wydania : 2015, kategoria : Poradnik, wypozyczona : false
+
+14 - Tytul : Skazany na trening, autor : Paul Wade, rok wydania : 2016, kategoria : Poradnik, wypozyczona : false
+
+15 - Tytul : Przebudzenie, autor : Anthony De Mello, rok wydania : 2006, kategoria : Filozofia, wypozyczona : false
+
